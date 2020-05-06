@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "748714305625",
+    "firebase_url": "https://auth-27808.firebaseio.com",
+    "project_id": "auth-27808",
+    "storage_bucket": "auth-27808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748714305625:android:a2905a4d7ea05bf2e62948",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748714305625-8ed6ov33utjqfv4tu1p6ot21ilih35gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmEvPFlFZlXPN97VXj1gNQjp7yahjiWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748714305625-8ed6ov33utjqfv4tu1p6ot21ilih35gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748714305625:android:dd59abc237cb622ce62948",
+        "android_client_info": {
+          "package_name": "io.bluetrace.opentrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748714305625-8ed6ov33utjqfv4tu1p6ot21ilih35gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqmEvPFlFZlXPN97VXj1gNQjp7yahjiWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748714305625-8ed6ov33utjqfv4tu1p6ot21ilih35gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

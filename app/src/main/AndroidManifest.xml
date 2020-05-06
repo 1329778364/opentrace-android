@@ -18,7 +18,7 @@
 
     <application
         android:name=".TracerApp"
-        android:allowBackup="false"
+        android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher"
@@ -89,7 +89,9 @@
         <meta-data
             android:name="com.google.firebase.messaging.default_notification_color"
             android:resource="@color/notification_tint" />
-
+<!--        <meta-data-->
+<!--            android:name="io.fabric.ApiKey"-->
+<!--            android:value="cc238b2a4866ceb0b008839cdb49a8b77" />-->
         <activity
             android:name=".permissions.RequestFileWritePermission"
             android:launchMode="singleTask"

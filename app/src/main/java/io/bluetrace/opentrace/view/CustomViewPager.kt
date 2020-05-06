@@ -24,5 +24,4 @@ class CustomViewPager(
     fun setPagingEnabled(enabled: Boolean) {
         this.isEnabled = enabled
     }
-
 }

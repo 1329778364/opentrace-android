@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276893756976",
+    "firebase_url": "https://trace-6bb95.firebaseio.com",
+    "project_id": "trace-6bb95",
+    "storage_bucket": "trace-6bb95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276893756976:android:005aa2747926371bed47f5",
+        "android_client_info": {
+          "package_name": "io.bluetrace.opentrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276893756976-jc93a6vqa1h8oh5r9uja9le9qhqgfos5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptEVjwX-Qk7g9F1Y5jONxkhLMrfc0n0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276893756976-jc93a6vqa1h8oh5r9uja9le9qhqgfos5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
